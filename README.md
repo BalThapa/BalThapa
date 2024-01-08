@@ -8,6 +8,8 @@
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
 
 
+![](https://github.com/BalThapa/github-stats/blob/master/generated/overview.svg)
+
 ## Languages & Tools
 
 ### Use:
