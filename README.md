@@ -28,7 +28,7 @@
 
 
 ## My Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balkrishna-thapa-chhetri-606941114/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balkrishna-thapa-chhetri-606941114/)
 [![facebook](https://img.shields.io/badge/facebook-20232A?style=flat-square&logo=facebook&logoColor=61DAFB)](https://www.facebook.com/balkrishna.thapa.336/)
 
 
