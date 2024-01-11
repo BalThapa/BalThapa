@@ -7,8 +7,6 @@
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
 
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BalThapa&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=transparent)]()
-
 
 ## Languages & Tools
 
@@ -30,7 +28,7 @@
 
 
 ## My Social Media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balkrishna-thapa-chhetri-606941114/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balkrishna-thapa-chhetri-606941114/)
 [![facebook](https://img.shields.io/badge/facebook-20232A?style=flat-square&logo=facebook&logoColor=61DAFB)](https://www.facebook.com/balkrishna.thapa.336/)
 
 
