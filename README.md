@@ -6,8 +6,7 @@
 - 🌱 My learnings are React, basics of React-advance, PHP/Symfony, Drupal, Unit Testing and CI/CD.
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BalThapa&count_private=true&langs_count=6&hide=jupyter%20notebook,php,shell&theme=transparent&exclude_repo=github-readme-stats)]()
+- 
 
 ## Languages & Tools 🧰
 
