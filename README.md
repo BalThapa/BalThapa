@@ -10,6 +10,8 @@
 
 ## Statistics 🚀
 
+![BalKrishna's github stats](https://github-readme-stats.vercel.app/api?username=BalThapa&show_icons=true&theme=tokyonight). 
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BalThapa&count_private=true&langs_count=6&hide=jupyter%20notebook,twig,scss&theme=dark)]()
 
   
