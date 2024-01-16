@@ -6,12 +6,13 @@
 - 🌱 My learnings are React, basics of React-advance, PHP/Symfony, Drupal, Unit Testing and CI/CD.
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
-- 
+  
 
 ## Languages & Tools 🧰
 
 ### Used 📚:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<div></div>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
