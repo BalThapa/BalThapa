@@ -7,6 +7,9 @@
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BalThapa&count_private=true&langs_count=6&hide=jupyter%20notebook,twig,scss&theme=transparent)]()
+
+
 
 ## Languages & Tools 🧰
 
