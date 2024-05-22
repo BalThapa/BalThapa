@@ -28,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat-square&logo=bootstrap&logoColor=61DAFB)
 &emsp;
 ![tainwindcss](https://img.shields.io/badge/tailwindcss-20232A?style=flat-square&logo=tailwindcss&logoColor=61DAFB)
+&emsp;
 ![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 &emsp;
 
@@ -46,6 +47,7 @@
 
 ### Learning 📖:
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+&emsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
