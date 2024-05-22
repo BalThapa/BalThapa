@@ -1,8 +1,8 @@
 ## Bal Krishna Thapa 
 
 
-- 👋 Hi there ! I am a Junior Full Stack Developer and a graduate of Bachelor of Business Administration.
-- 👨🏻‍🎓 I’ve completed my studies (searching for internship) in Business College, Helsinki.
+- 👋 Hi there ! I am a Full Stack Developer and a graduate of Bachelor of Business Administration.
+- 👨🏻‍🎓 I’ve completed my studies in Business College, Helsinki.
 - 🌱 My learnings are React, basics of React-advance, PHP/Symfony, Drupal, Unit Testing and CI/CD.
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
@@ -28,6 +28,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat-square&logo=bootstrap&logoColor=61DAFB)
 &emsp;
 ![tainwindcss](https://img.shields.io/badge/tailwindcss-20232A?style=flat-square&logo=tailwindcss&logoColor=61DAFB)
+![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+&emsp;
 
 ### Basic knowhow 🌱:
 ![drupal](https://img.shields.io/badge/drupal-20232A?style=flat-square&logo=drupal&logoColor=61DAFB)
@@ -43,8 +45,7 @@
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat-square&logo=Jest&logoColor=61DAFB)
 
 ### Learning 📖:
-![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-&emsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
