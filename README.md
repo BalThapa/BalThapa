@@ -1,11 +1,13 @@
 ## Bal Krishna Thapa 
 
+![testprofile](https://github.com/user-attachments/assets/3ad16db7-aa69-4289-b38b-6b3461408417/w_200/border_radius_50%)=
 
 - 👋 Hi there ! I am a Full Stack Developer and a graduate of Bachelor of Business Administration.
 - 👨🏻‍🎓 I’ve completed my studies in Business College, Helsinki.
 - 🌱 My learnings are React, basics of React-advance, PHP/Symfony, Drupal, Unit Testing and CI/CD.
 - 🔭 I’ve recently completed my portfolio project using React and Tailwind CSS.  
 - 👯 I’m searching for a role of Developer and looking forward to make my career bright as Full-Stack developer.
+
 
 
 ## Statistics 🚀
