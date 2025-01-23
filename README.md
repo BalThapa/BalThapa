@@ -23,7 +23,11 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 &emsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+&emsp;
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+&emsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 &emsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat-square&logo=bootstrap&logoColor=61DAFB)
 &emsp;
@@ -37,8 +41,6 @@
 &emsp;
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 &emsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-&emsp;
 ![Mocha](https://img.shields.io/badge/Mocha-20232A?style=flat-square&logo=mocha&logoColor=61DAFB)
 &emsp;
 ![Chai](https://img.shields.io/badge/Chai-20232A?style=flat-square&logo=chai&logoColor=61DAFB)
@@ -46,8 +48,6 @@
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat-square&logo=Jest&logoColor=61DAFB)
 
 ### Learning 📖:
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-&emsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
