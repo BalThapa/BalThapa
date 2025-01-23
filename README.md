@@ -1,6 +1,6 @@
 ## Bal Krishna Thapa 
 
-<img src="https://github.com/user-attachments/assets/3ad16db7-aa69-4289-b38b-6b3461408417" alt="Test Profile" width="150" height="150" style="border-radius: 50%;">
+<img src="https://github.com/user-attachments/assets/3ad16db7-aa69-4289-b38b-6b3461408417" alt="Test Profile" width="200" height="500" "border-radius: 50%;">
 
 
 - 👋 Hi there ! I am a Full Stack Developer and a graduate of Bachelor of Business Administration.
