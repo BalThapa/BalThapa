@@ -1,6 +1,6 @@
 ## Bal Krishna Thapa 
 
-![testprofile](https://github.com/user-attachments/assets/3ad16db7-aa69-4289-b38b-6b3461408417)=
+![testprofile](https://github.com/user-attachments/assets/3ad16db7-aa69-4289-b38b-6b3461408417/h_500/w_200)
 
 - 👋 Hi there ! I am a Full Stack Developer and a graduate of Bachelor of Business Administration.
 - 👨🏻‍🎓 I’ve completed my studies in Business College, Helsinki.
